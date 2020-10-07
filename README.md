@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hola mundo <img src="./assets/hi.gif width="24px">
+
+
+
+
+
+[![Spotify](https://spotify-now-playing-delta-lovat.vercel.app/api/spotify)](https://open.spotify.com/user/JohnnyJosep)
 
 <!--
 **JohnnyJosep/JohnnyJosep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
