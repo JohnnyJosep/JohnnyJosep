@@ -1,4 +1,4 @@
-### Hola mundo <img src="./assets/hi.gif width="24px">
+### Hola mundo <img src="./assets/hi.gif" width="24px">
 
 
 
