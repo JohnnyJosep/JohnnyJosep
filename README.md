@@ -1,9 +1,9 @@
-### Hola mundo <img src="./assets/hi.gif" width="24px">
+# Hello word <img src="./assets/hi.gif" width="24px">, I'm JohnnyJosep 
 
 
 
 
-
+# Spotify
 [![Spotify](https://spotify-now-playing-delta-lovat.vercel.app/api/spotify)](https://open.spotify.com/user/JohnnyJosep)
 
 <!--
