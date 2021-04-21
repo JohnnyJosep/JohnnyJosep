@@ -1,4 +1,4 @@
-# Hello word <img src="./assets/hi.gif" width="24px">, I'm JohnnyJosep 
+# Hello word <img src="./assets/hi.gif" width="24px">, I'm Joan Josep
 
 
 
